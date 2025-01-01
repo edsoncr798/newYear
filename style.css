@@ -188,7 +188,7 @@ body {
     }
 }
 
-@media (min-width: 762px) {
+@media (min-width: 760px) {
     @keyframes new_animation {
         0% {
             right: -100px;
